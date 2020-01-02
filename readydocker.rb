@@ -1,4 +1,4 @@
-class ReadyDocker < Formula
+class Readydocker < Formula
   desc "A macOS tool for starting then waiting for Docker.app to be ready"
   homepage "https://github.com/camspiers/readydocker"
   url "https://github.com/camspiers/readydocker/archive/1.0.1.tar.gz"
